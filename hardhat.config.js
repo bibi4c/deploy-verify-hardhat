@@ -89,8 +89,8 @@ module.exports = {
         network: 'tcgverse',
         chainId: 2400,
         urls: {
-          apiURL: 'https://explorer.tcgverse.xyz/api',
-          browserURL: 'https://explorer.tcgverse.xyz/'
+          apiURL: 'https://tcg-mainnet.explorer-v6-oasys.net/api',
+          browserURL: 'https://tcg-mainnet.explorer-v6-oasys.net'
         }
       },
     ],
